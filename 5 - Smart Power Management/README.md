@@ -12,7 +12,7 @@ It explores smart energy management techniques for efficient power utilization a
 
 3. Group No And Team Members :
 
-Group No : 5
+Group No : 12
 
 1. 388511 - Nagarale Dakshyani Kiran
 
