@@ -14,7 +14,10 @@ It explores smart energy management techniques for efficient power utilization a
 
 Group No : 5
 
-1.388511 - Nagarale Dakshyani Kiran
-2.388514 - Harwani Aryan Shankar
-3.388515 - Jadhav Chaitanya Suresh
-4.388518 - Kamble Meghana Manoj 
+1. 388511 - Nagarale Dakshyani Kiran
+
+2. 388514 - Harwani Aryan Shankar
+   
+3. 388515 - Jadhav Chaitanya Suresh
+   
+4. 388518 - Kamble Meghana Manoj 
